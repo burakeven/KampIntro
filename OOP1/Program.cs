@@ -17,7 +17,13 @@ namespace OOP1
 
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
-            Console.WriteLine(product1.);
+            Console.WriteLine(product1.ProductName);
+
+            
+
+           //int,double,bool ....bunlar değer tip
+           //class, array, abstract, interface ... bunlar ise değer tiplerdir
+           //ref out
         }
     }
 }
